@@ -1,0 +1,26 @@
+[
+  {
+    "index": 1,
+    "id": "2022-12-19T23:55:30.588Z",
+    "name": "Exercise bench",
+    "price": 120.00
+  },
+  {
+    "index": 2,
+    "id": "2022-12-19T23:56:08.591Z",
+    "name": "Bicycle helmet",
+    "price": 12.99
+  },
+  {
+    "index": 3,
+    "id": "2022-12-19T23:56:32.587Z",
+    "name": "Yoga mat",
+    "price": 18.50
+  },
+  {
+    "index": 4,
+    "id": "2022-12-19T23:56:55.929Z",
+    "name": "FM Radio",
+    "price": 48.20
+  }
+]
